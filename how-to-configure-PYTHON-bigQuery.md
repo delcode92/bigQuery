@@ -12,3 +12,5 @@
 <b>import os</b> <br>
 <b>os.environ["GCLOUD_PROJECT"] = "[NAMA_PROJECT_ANDA]"</b> <br>
 <hr>
+
+10. jalankan perintah `pip install db-dtypes`
